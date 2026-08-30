@@ -58,3 +58,34 @@ building projects that solve real-world problems.
 | APIs & Deployment | Experimentation |
 | Data Pipelines | Model Analysis |
 | AI Infrastructure | Technical Research |
+
+<br>
+
+---
+
+## Featured Projects
+
+### 🧠 Mini-GPT — Intelligent LLM Assistant
+
+> A lightweight AI assistant combining **LLM fine-tuning, RAG, multi-agent
+> routing, and conversational memory** into a single application.
+
+**Architecture**
+
+`User Query` → `Query Router` → `Agent Selection` → `Response Generation` → `Memory`
+
+**Core Components**
+
+- 🧠 **TinyLlama 1.1B** fine-tuned with **LoRA / PEFT**
+- 🔎 **RAG** using SentenceTransformers + **FAISS**
+- 🤖 Multi-agent architecture:
+  `Calculator` · `Knowledge/RAG` · `General LLM`
+- 💬 Context-aware conversational memory
+- 🖥️ Streamlit interface
+- 🤗 Fine-tuned model hosted on Hugging Face
+
+**Tech**
+
+`Python` `PyTorch` `Transformers` `PEFT` `FAISS` `SentenceTransformers` `Streamlit`
+
+[**View Repository →**](https://github.com/jv906699/Mini-GPT)
