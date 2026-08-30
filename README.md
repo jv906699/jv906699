@@ -89,3 +89,30 @@ building projects that solve real-world problems.
 `Python` `PyTorch` `Transformers` `PEFT` `FAISS` `SentenceTransformers` `Streamlit`
 
 [**View Repository →**](https://github.com/jv906699/Mini-GPT)
+
+<br>
+
+### 🏪 Retail Brain OS — Real-Time Retail Intelligence
+
+> An AI-powered retail intelligence system that transforms real-time
+> customer movement into structured behavioral and operational insights.
+
+**Pipeline**
+
+`Detection` → `Tracking` → `Zone Analytics` → `Dwell Time` → `Sessions` → `Intelligence`
+
+**Core Components**
+
+- 👁️ Real-time customer detection and tracking
+- 🧭 Persistent anonymous track IDs
+- 📍 Configurable spatial zones
+- ⏱️ Dwell-time and zone-transition analysis
+- 👥 Customer session reconstruction
+- 📊 Structured behavioral events
+- 🖥️ Real-time intelligence dashboard
+
+**Tech**
+
+`Python` `Computer Vision` `Object Tracking` `OpenCV` `YOLO` `Streamlit`
+
+[**View Repository →**](https://github.com/jv906699/Retail-Brain-OS)
