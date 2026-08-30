@@ -116,3 +116,29 @@ building projects that solve real-world problems.
 `Python` `Computer Vision` `Object Tracking` `OpenCV` `YOLO` `Streamlit`
 
 [**View Repository →**](https://github.com/jv906699/Retail-Brain-OS)
+
+<br>
+
+### 👁️ Multiple Object Detector — Deep Learning Vision System
+
+> A custom-trained YOLO-based object detection system with a dedicated
+> inference GUI, trained model weights, evaluation artifacts, and deployment workflow.
+
+**Pipeline**
+
+`Dataset` → `Training` → `YOLO Model` → `Inference` → `Detection GUI`
+
+**Core Components**
+
+- 🎯 Custom YOLO object detection model
+- 🧠 Model training and validation workflow
+- 📊 Precision, recall and PR-curve evaluation
+- 🔬 Confusion-matrix analysis
+- 🖥️ Dedicated desktop inference GUI
+- 📦 Trained model weights and deployment artifacts
+
+**Tech**
+
+`Python` `YOLO` `Deep Learning` `Computer Vision` `PyTorch`
+
+[**View Repository →**](https://github.com/jv906699/Multiple-Object-Detector)
