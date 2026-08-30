@@ -154,3 +154,11 @@ building projects that solve real-world problems.
 `Python` `YOLO` `Deep Learning` `Computer Vision` `PyTorch`
 
 [**View Repository →**](https://github.com/jv906699/Multiple-Object-Detector)
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jv906699/jv906699/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
