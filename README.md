@@ -98,6 +98,9 @@ building projects that solve real-world problems.
 
 ### 🏪 Retail Brain OS — Real-Time Retail Intelligence
 
+<div align="center">
+  <img src="./assets/9e32e858-d7c3-4e10-b347-63d77e190556.png  " width="100%" alt="Retail Brain OS">
+</div>
 
 > An AI-powered retail intelligence system that transforms real-time
 > customer movement into structured behavioral and operational insights.
