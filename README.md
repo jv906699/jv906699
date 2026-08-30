@@ -129,6 +129,10 @@ building projects that solve real-world problems.
 
 ### 👁️ Multiple Object Detector — Deep Learning Vision System
 
+<div align="center">
+  <img src="./assets/object-detector-banner.png" width="100%" alt="Multiple Object Detector">
+</div>
+
 > A custom-trained YOLO-based object detection system with a dedicated
 > inference GUI, trained model weights, evaluation artifacts, and deployment workflow.
 
