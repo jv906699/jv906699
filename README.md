@@ -67,6 +67,10 @@ building projects that solve real-world problems.
 
 ### 🧠 Mini-GPT — Intelligent LLM Assistant
 
+<div align="center">
+  <img src="./assets/mini-gpt-banner.png" width="100%" alt="Mini-GPT">
+</div>
+
 > A lightweight AI assistant combining **LLM fine-tuning, RAG, multi-agent
 > routing, and conversational memory** into a single application.
 
