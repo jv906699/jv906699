@@ -36,36 +36,41 @@
 
 <td width="62%" valign="middle">
 
-<h2>Defence Research & Development Organisation</h2>
+<div align="center">
+
+<img src="./assets/drdo.jpg" width="75%" alt="Defence Research & Development Organisation">
+
+<br><br>
+
+<h2>DEFENCE RESEARCH & DEVELOPMENT ORGANISATION</h2>
+
+<samp><strong>PROJECT TRAINEE</strong></samp>
+
+<br>
+
+<samp>JAN 2026 — JUL 2026</samp>
+
+<br><br>
 
 <p>
-<strong>PROJECT TRAINEE</strong>
-<br>
-<sub>JAN 2026 — JUL 2026</sub>
+<samp>
+Research-oriented experience within a multidisciplinary defence R&D environment,<br>
+involving technical exploration, experimental problem solving,<br>
+and research-driven engineering.
+</samp>
 </p>
 
 <br>
 
-<p>
-Research-oriented experience within a multidisciplinary defence R&D
-environment, involving technical exploration, experimental problem
-solving, and research-driven engineering.
-</p>
-
-<br>
-
-<p>
+<samp>
 <kbd>DEFENCE R&D</kbd>
-&nbsp;
+&nbsp;&nbsp;
 <kbd>APPLIED RESEARCH</kbd>
-&nbsp;
+&nbsp;&nbsp;
 <kbd>TECHNICAL RESEARCH</kbd>
-</p>
+</samp>
 
-</td>
-
-</tr>
-</table>
+</div>
 
 
 
