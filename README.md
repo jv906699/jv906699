@@ -39,7 +39,7 @@
 
   <img
     src="./assets/drdo.jpg"
-    width="65%"
+    width="75%"
     alt="Defence Research and Development Organisation"
   />
 
