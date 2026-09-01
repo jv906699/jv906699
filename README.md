@@ -173,6 +173,21 @@
 </p>
 
 <br>
+<p align="center">
+  <kbd>PYTORCH</kbd>
+  &nbsp;&nbsp;
+  <kbd>BYTETRACK</kbd>
+  &nbsp;&nbsp;
+  <kbd>MULTI-OBJECT TRACKING</kbd>
+  &nbsp;&nbsp;
+  <kbd>SPATIAL INTELLIGENCE</kbd>
+  &nbsp;&nbsp;
+  <kbd>TEMPORAL / STATE INTELLIGENCE</kbd>
+  &nbsp;&nbsp;
+  <kbd>EVENT PROCESSING</kbd>
+  &nbsp;&nbsp;
+  <kbd>RETAIL ANALYTICS</kbd>
+</p>
 
 <p align="center">
   <a href="https://github.com/jv906699/Retail-Brain-OS">
