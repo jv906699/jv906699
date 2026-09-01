@@ -139,6 +139,50 @@
 </div>
 
 <!-- ========================================================= -->
+<!-- PROJECTS -->
+<!-- ========================================================= -->
+
+<br>
+
+<h2 align="center">PROJECTS</h2>
+
+<br>
+
+<!-- ========================================================= -->
+<!-- RETAIL-BRAIN-OS -->
+<!-- ========================================================= -->
+
+<h2 align="center">RETAIL-BRAIN-OS</h2>
+
+<p align="center">
+  <img
+    src="./assets/retail-brain-os.gif"
+    width="95%"
+    alt="Retail Brain OS"
+  />
+</p>
+
+<p align="center">
+  <i>
+    An AI-powered retail intelligence platform that transforms existing
+    CCTV infrastructure into structured business insights. It combines
+    real-time computer vision, anonymous visitor tracking, zone intelligence,
+    dwell-time analytics, and retail behavior analysis to understand
+    customer movement and store performance.
+  </i>
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/jv906699/Retail-Brain-OS">
+    <kbd> VIEW PROJECT → </kbd>
+  </a>
+</p>
+
+<br>
+
+<!-- ========================================================= -->
 <!-- ACTIVITY -->
 <!-- ========================================================= -->
 
