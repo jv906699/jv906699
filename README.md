@@ -116,6 +116,57 @@ and applied machine learning.
 
 <br><br>
 
+<br><br>
+
+<!-- ========================================================= -->
+<!-- CSIR-CEERI -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+  <img
+    src="./assets/csir-ceeri.jpg"
+    width="95%"
+    alt="CSIR-Central Electronics Engineering Research Institute"
+  />
+
+  <br><br>
+
+  <h2>CSIR–CENTRAL ELECTRONICS ENGINEERING RESEARCH INSTITUTE</h2>
+
+  <p>
+    <strong>AI/ML INTERN</strong>
+  </p>
+
+  <p>
+    <samp>JUN 2025 — JUL 2025</samp>
+  </p>
+
+  <br>
+
+  <p align="center">
+    <i>
+      Developed and benchmarked a real-time infrared hand-gesture detection
+      system using YOLOv12 and PyTorch, achieving 91.3% mAP@0.5 at 38 FPS.<br>
+      Built and evaluated a 22,000+ image dataset spanning 60 gesture classes,
+      exploring accuracy, inference speed, and edge-deployment trade-offs.
+    </i>
+  </p>
+
+  <br>
+
+  <p>
+    <kbd>COMPUTER VISION</kbd>
+    &nbsp;&nbsp;
+    <kbd>YOLOv12</kbd>
+    &nbsp;&nbsp;
+    <kbd>PYTORCH</kbd>
+    &nbsp;&nbsp;
+    <kbd>EDGE AI</kbd>
+  </p>
+
+</div>
+
 <!-- ========================================================= -->
 <!-- ACTIVITY -->
 <!-- ========================================================= -->
