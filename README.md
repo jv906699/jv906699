@@ -80,7 +80,7 @@ and applied machine learning.
     alt="Defence Research and Development Organisation"
   />
 
-  <br><br>
+  <br>
 
   <h2>DEFENCE RESEARCH &amp; DEVELOPMENT ORGANISATION</h2>
 
