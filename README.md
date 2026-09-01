@@ -23,22 +23,15 @@
 
 </td>
 
-<td width="65%">
+<td width="45%">
 
-<table width="100%" border="0" cellspacing="0" cellpadding="12">
-<tr>
+<table width="70%" border="0" cellspacing="0" cell
 
-<td width="38%" align="center" valign="middle">
-
-<img src="./assets/drdo.jpg" width="100%" alt="Defence Research & Development Organisation">
-
-</td>
-
-<td width="62%" valign="middle">
+<td width="42%" valign="middle">
 
 <div align="center">
 
-<img src="./assets/drdo.jpg" width="75%" alt="Defence Research & Development Organisation">
+<img src="./assets/drdo.jpg" width="55%" alt="Defence Research & Development Organisation">
 
 <br><br>
 
