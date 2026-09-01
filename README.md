@@ -25,24 +25,45 @@
 
 <td width="65%">
 
-<h3>🇮🇳 Defence Research & Development Organisation</h3>
+<table width="100%" border="0" cellspacing="0" cellpadding="12">
+<tr>
 
-<strong>PROJECT TRAINEE</strong><br>
-<sub>JAN 2026 — JUL 2026</sub>
+<td width="38%" align="center" valign="middle">
 
-<br><br>
-
-Research-oriented experience within a multidisciplinary defence R&D environment, involving technical exploration, experimental problem solving, and research-driven engineering.
-
-<br><br>
-
-<code>DEFENCE R&D</code>
-&nbsp;
-<code>APPLIED RESEARCH</code>
-&nbsp;
-<code>TECHNICAL RESEARCH</code>
+<img src="./assets/drdo.jpg" width="100%" alt="Defence Research & Development Organisation">
 
 </td>
+
+<td width="62%" valign="middle">
+
+<h2>Defence Research & Development Organisation</h2>
+
+<p>
+<strong>PROJECT TRAINEE</strong>
+<br>
+<sub>JAN 2026 — JUL 2026</sub>
+</p>
+
+<br>
+
+<p>
+Research-oriented experience within a multidisciplinary defence R&D
+environment, involving technical exploration, experimental problem
+solving, and research-driven engineering.
+</p>
+
+<br>
+
+<p>
+<kbd>DEFENCE R&D</kbd>
+&nbsp;
+<kbd>APPLIED RESEARCH</kbd>
+&nbsp;
+<kbd>TECHNICAL RESEARCH</kbd>
+</p>
+
+</td>
+
 </tr>
 </table>
 
