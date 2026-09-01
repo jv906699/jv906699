@@ -249,6 +249,59 @@
   </a>
 </p>
 
+<br>
+
+<!-- ========================================================= -->
+<!-- MULTIPLE-OBJECT-DETECTION SYSTEM -->
+<!-- ========================================================= -->
+
+<h2 align="center">MULTIPLE-OBJECT-DETECTION SYSTEM</h2>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/jv906699/jv906699/main/assets/multiple_object_detection_yolov12n_workflow.gif"
+    width="95%"
+    alt="Multiple Object Detection System"
+  />
+</p>
+
+<p align="center">
+  <i>
+    Developed a real-time multi-class YOLOv12 detection system using PyTorch,
+    covering dataset preparation, training, evaluation, and inference;
+    achieving 88%+ mAP@0.5 at 40+ FPS. Optimized models through
+    hyperparameter tuning and experiment tracking, with GUI-based inference
+    visualization and model-weight management integrated into a structured,
+    reproducible workflow.
+  </i>
+</p>
+
+<br>
+
+<p align="center">
+  <kbd>YOLOv12</kbd>
+  &nbsp;&nbsp;
+  <kbd>PYTORCH</kbd>
+  &nbsp;&nbsp;
+  <kbd>OBJECT DETECTION</kbd>
+  &nbsp;&nbsp;
+  <kbd>TRANSFER LEARNING</kbd>
+  &nbsp;&nbsp;
+  <kbd>HYPERPARAMETER TUNING</kbd>
+  &nbsp;&nbsp;
+  <kbd>MODEL EVALUATION</kbd>
+  &nbsp;&nbsp;
+  <kbd>REAL-TIME INFERENCE</kbd>
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/jv906699/Multiple-Object-Detector">
+    <kbd> VIEW PROJECT → </kbd>
+  </a>
+</p>
+
 <br><br>
 
 <!-- ========================================================= -->
