@@ -17,6 +17,10 @@
 
 <br>
 
+<!-- ========================================================= -->
+<!-- ABOUT ME -->
+<!-- ========================================================= -->
+
 <h2 align="center">ABOUT ME</h2>
 
 <table>
@@ -50,18 +54,6 @@ and applied machine learning.
 
 <br>
 
-<p align="center">
-  <img
-    src="./assets/wave-divider.gif"
-    width="100%"
-    alt="Animated divider"
-  />
-</p>
-
-<br>
-
-<br>
-
 <!-- ========================================================= -->
 <!-- EXPERIENCE -->
 <!-- ========================================================= -->
@@ -87,6 +79,7 @@ and applied machine learning.
     width="95%"
     alt="Defence Research and Development Organisation"
   />
+
   <br><br>
 
   <h2>DEFENCE RESEARCH &amp; DEVELOPMENT ORGANISATION</h2>
@@ -102,12 +95,12 @@ and applied machine learning.
   <br>
 
   <p align="center">
-  <i>
-    Research-oriented experience within a multidisciplinary defence R&amp;D environment,<br>
-    involving technical exploration, experimental problem solving,<br>
-    and research-driven engineering.
-  </i>
-</p>
+    <i>
+      Research-oriented experience within a multidisciplinary defence R&amp;D environment,<br>
+      involving technical exploration, experimental problem solving,<br>
+      and research-driven engineering.
+    </i>
+  </p>
 
   <br>
 
