@@ -181,6 +181,60 @@
 </p>
 
 <br>
+<!-- ========================================================= -->
+<!-- MINI-GPT -->
+<!-- ========================================================= -->
+
+<h2 align="center">MINI-GPT</h2>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/jv906699/jv906699/main/assets/Mini-GPT-Complete-Logic-Explainer.gif"
+    width="95%"
+    alt="Mini-GPT"
+  />
+</p>
+
+<p align="center">
+  <i>
+    A custom AI assistant built around a fine-tuned TinyLlama 1.1B model,
+    enhanced with LoRA/PEFT and a Retrieval-Augmented Generation (RAG)
+    pipeline using SentenceTransformers and FAISS. It integrates a
+    multi-agent architecture with specialized knowledge, calculator,
+    and general-purpose agents to route queries and provide grounded
+    responses through an interactive Streamlit interface.
+  </i>
+</p>
+
+<br>
+
+<p align="center">
+  <kbd>TINYLLAMA</kbd>
+  &nbsp;&nbsp;
+  <kbd>LORA / PEFT</kbd>
+  &nbsp;&nbsp;
+  <kbd>RAG</kbd>
+  &nbsp;&nbsp;
+  <kbd>FAISS</kbd>
+  &nbsp;&nbsp;
+  <kbd>SENTENCETRANSFORMERS</kbd>
+  &nbsp;&nbsp;
+  <kbd>MULTI-AGENT</kbd>
+  &nbsp;&nbsp;
+  <kbd>PYTORCH</kbd>
+  &nbsp;&nbsp;
+  <kbd>STREAMLIT</kbd>
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/jv906699/Mini-GPT">
+    <kbd> VIEW PROJECT → </kbd>
+  </a>
+</p>
+
+<br><br>
 
 <!-- ========================================================= -->
 <!-- ACTIVITY -->
