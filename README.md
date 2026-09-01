@@ -17,40 +17,15 @@
 
 <br>
 
-<!-- ========================================================= -->
-<!-- ABOUT ME -->
-<!-- ========================================================= -->
-
 <h2 align="center">ABOUT ME</h2>
 
-<table>
-<tr>
-
-<td width="58%" valign="middle">
-
-<p>
-I’m an AI/ML Engineer and Freelancer focused on Machine Learning,
-Deep Learning, Generative AI, and LLM systems. I build end-to-end AI
-solutions, from intelligent models to practical applications, and
-enjoy turning ideas into useful, real-world software. My projects
-explore areas such as custom language models, intelligent automation,
-and applied machine learning.
+<p align="center">
+  <img
+    src="./assets/about-me-gif-v6-slower.gif"
+    width="95%"
+    alt="About Jatin Kumar Verma"
+  />
 </p>
-
-</td>
-
-<td width="42%" align="center" valign="middle">
-
-<img
-  src="./assets/about-me.gif"
-  width="100%"
-  alt="AI and ML coding animation"
-/>
-
-</td>
-
-</tr>
-</table>
 
 <br>
 
