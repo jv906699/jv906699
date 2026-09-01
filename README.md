@@ -76,7 +76,7 @@ and applied machine learning.
 
   <img
     src="./assets/drdo.jpg"
-    width="95%"
+    width="100%"
     alt="Defence Research and Development Organisation"
   />
 
@@ -124,7 +124,7 @@ and applied machine learning.
 
   <img
     src="./assets/csir-ceeri.jpg"
-    width="95%"
+    width="100%"
     alt="CSIR-Central Electronics Engineering Research Institute"
   />
 
