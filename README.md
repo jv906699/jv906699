@@ -156,7 +156,7 @@
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/jv906699/jv906699/main/assets/retail-brain-os.gif"
+    src="https://raw.githubusercontent.com/jv906699/jv906699/main/assets/retail_brain_os_demo.gif"
     width="95%"
     alt="Retail Brain OS"
   />
