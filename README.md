@@ -144,7 +144,7 @@
 
 <br>
 
-<h2 align="center">PROJECTS:-</h2>
+<h2 align="center">PROJECTS:--></h2>
 
 <br>
 
@@ -200,7 +200,7 @@
 <!-- MINI-GPT -->
 <!-- ========================================================= -->
 
-<h2 align="center">MINI-GPT</h2>
+<h2 align="center">Mini-GPT</h2>
 
 <p align="center">
   <img
