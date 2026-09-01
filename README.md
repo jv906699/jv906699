@@ -56,14 +56,13 @@
 
   <br>
 
-  <p>
-    <samp>
-      Research-oriented experience within a multidisciplinary defence R&amp;D
-      environment,<br>
-      involving technical exploration, experimental problem solving,<br>
-      and research-driven engineering.
-    </samp>
-  </p>
+  <p align="center">
+  <i>
+    Research-oriented experience within a multidisciplinary defence R&amp;D environment,<br>
+    involving technical exploration, experimental problem solving,<br>
+    and research-driven engineering.
+  </i>
+</p>
 
   <br>
 
