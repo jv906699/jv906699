@@ -1,5 +1,11 @@
 <div align="center">
 
+<img src="./assets/profile-hero.png" alt="Jatin Kumar Verma — AI/ML Engineer & Freelancer" width="100%">
+
+</div>
+
+<div align="center">
+
 # Jatin Verma
 
 ### AI / ML Engineer · Freelancer
