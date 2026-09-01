@@ -16,9 +16,6 @@
 
 </div>
 
-<p align="center">
-  <img src="./assets/wave-divider.gif" width="90%" />
-</p>
 
 
 ## 📊 GitHub Activity
