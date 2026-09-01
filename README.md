@@ -16,6 +16,10 @@
 
 </div>
 
+<p align="center">
+  <img src="./assets/experience.svg" width="95%" alt="Experience and R&D timeline">
+</p>
+
 
 
 ## 📊 GitHub Activity
