@@ -17,8 +17,6 @@
 
 <br>
 
-<h2 align="center">ABOUT ME</h2>
-
 <p align="center">
   <img
     src="./assets/about-me-gif-v6-slower.gif"
