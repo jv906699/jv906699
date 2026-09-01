@@ -15,10 +15,40 @@
 <p align="center">
   <img src="./assets/experience.svg" width="95%" alt="Experience and R&D timeline">
 </p>
+<table>
+<tr>
+<td width="35%" align="center">
+
+<img src="./assets/drdo.jpg" width="90%" alt="DRDO">
+
+</td>
+
+<td width="65%">
+
+<h3>🇮🇳 Defence Research & Development Organisation</h3>
+
+<strong>PROJECT TRAINEE</strong><br>
+<sub>JAN 2026 — JUL 2026</sub>
+
+<br><br>
+
+Research-oriented experience within a multidisciplinary defence R&D environment, involving technical exploration, experimental problem solving, and research-driven engineering.
+
+<br><br>
+
+<code>DEFENCE R&D</code>
+&nbsp;
+<code>APPLIED RESEARCH</code>
+&nbsp;
+<code>TECHNICAL RESEARCH</code>
+
+</td>
+</tr>
+</table>
 
 
 
-## 📊 GitHub Activity
+## Activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/jv906699/jv906699/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
