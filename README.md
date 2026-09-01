@@ -10,6 +10,16 @@
 
 <div align="center">
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&height=55&lines=EXPERIENCE+%26+RESEARCH;BUILDING+THROUGH+REAL-WORLD+R%26D;AI%2FML+%C2%B7+ENGINEERING+%C2%B7+RESEARCH" alt="Experience and Research" />
+
+</div>
+
+<p align="center">
+  <img src="./assets/wave-divider.gif" width="90%" />
+</p>
+
 
 ## 📊 GitHub Activity
 
