@@ -305,6 +305,32 @@
 <br><br>
 
 <!-- ========================================================= -->
+<!-- TECH STACK -->
+<!-- ========================================================= -->
+
+<br><br>
+
+<h2 align="center">TECH STACK</h2>
+
+<p align="center">
+  <i>
+    The technologies and frameworks I use to build AI/ML systems,
+    intelligent applications, and real-world AI solutions.
+  </i>
+</p>
+
+<br>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,huggingface,fastapi,streamlit,docker,git,github,postgres,redis"
+    alt="Jatin Kumar Verma Tech Stack"
+  />
+</p>
+
+<br>
+
+<!-- ========================================================= -->
 <!-- ACTIVITY -->
 <!-- ========================================================= -->
 
