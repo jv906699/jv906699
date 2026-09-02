@@ -321,107 +321,99 @@
 
 <br>
 
+<!-- MAIN TECHNOLOGY ICONS -->
+
 <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,huggingface,fastapi,streamlit,docker,git,github,postgres,redis"
-    alt="Jatin Kumar Verma Tech Stack"
-  />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,docker,git,github,postgres,redis" alt="Core Technology Stack">
 </p>
 
 <br>
 
-<details>
-  <summary align="center">
-    <strong>▸ FULL AI/ML STACK — CLICK TO EXPAND</strong>
-  </summary>
+<!-- AI / MACHINE LEARNING -->
 
-  <br>
+<h4 align="center">AI / MACHINE LEARNING</h4>
 
-  <h4 align="center">AI / MACHINE LEARNING</h4>
+<p align="center">
+  <kbd>PYTORCH</kbd>
+  &nbsp;&nbsp;
+  <kbd>TENSORFLOW</kbd>
+  &nbsp;&nbsp;
+  <kbd>SCIKIT-LEARN</kbd>
+  &nbsp;&nbsp;
+  <kbd>DEEP LEARNING</kbd>
+  &nbsp;&nbsp;
+  <kbd>MODEL TRAINING</kbd>
+</p>
 
-  <p align="center">
-    <kbd>PYTORCH</kbd>
-    &nbsp;&nbsp;
-    <kbd>TENSORFLOW</kbd>
-    &nbsp;&nbsp;
-    <kbd>SCIKIT-LEARN</kbd>
-  </p>
+<br>
 
-  <br>
+<!-- GENERATIVE AI & LLMs -->
 
-  <h4 align="center">GENERATIVE AI &amp; LLMs</h4>
+<h4 align="center">GENERATIVE AI &amp; LLMs</h4>
 
-  <p align="center">
-    <kbd>TRANSFORMERS</kbd>
-    &nbsp;&nbsp;
-    <kbd>HUGGING FACE</kbd>
-    &nbsp;&nbsp;
-    <kbd>TINYLLAMA</kbd>
-    &nbsp;&nbsp;
-    <kbd>LORA / PEFT</kbd>
-    &nbsp;&nbsp;
-    <kbd>RAG</kbd>
-    &nbsp;&nbsp;
-    <kbd>FAISS</kbd>
-    &nbsp;&nbsp;
-    <kbd>SENTENCETRANSFORMERS</kbd>
-    &nbsp;&nbsp;
-    <kbd>MULTI-AGENT SYSTEMS</kbd>
-  </p>
+<p align="center">
+  <kbd>TRANSFORMERS</kbd>
+  &nbsp;&nbsp;
+  <kbd>HUGGING FACE</kbd>
+  &nbsp;&nbsp;
+  <kbd>TINYLLAMA</kbd>
+  &nbsp;&nbsp;
+  <kbd>LORA / PEFT</kbd>
+  &nbsp;&nbsp;
+  <kbd>RAG</kbd>
+  &nbsp;&nbsp;
+  <kbd>FAISS</kbd>
+  &nbsp;&nbsp;
+  <kbd>SENTENCETRANSFORMERS</kbd>
+  &nbsp;&nbsp;
+  <kbd>MULTI-AGENT SYSTEMS</kbd>
+</p>
 
-  <br>
+<br>
 
-  <h4 align="center">COMPUTER VISION</h4>
+<!-- COMPUTER VISION -->
 
-  <p align="center">
-    <kbd>YOLO</kbd>
-    &nbsp;&nbsp;
-    <kbd>YOLOv12</kbd>
-    &nbsp;&nbsp;
-    <kbd>BYTETRACK</kbd>
-    &nbsp;&nbsp;
-    <kbd>MULTI-OBJECT TRACKING</kbd>
-    &nbsp;&nbsp;
-    <kbd>SPATIAL INTELLIGENCE</kbd>
-    &nbsp;&nbsp;
-    <kbd>TEMPORAL ANALYTICS</kbd>
-  </p>
+<h4 align="center">COMPUTER VISION</h4>
 
-  <br>
+<p align="center">
+  <kbd>YOLO</kbd>
+  &nbsp;&nbsp;
+  <kbd>YOLOv12</kbd>
+  &nbsp;&nbsp;
+  <kbd>BYTETRACK</kbd>
+  &nbsp;&nbsp;
+  <kbd>MULTI-OBJECT TRACKING</kbd>
+  &nbsp;&nbsp;
+  <kbd>SPATIAL INTELLIGENCE</kbd>
+  &nbsp;&nbsp;
+  <kbd>TEMPORAL ANALYTICS</kbd>
+</p>
 
-  <h4 align="center">AI APPLICATIONS &amp; SYSTEMS</h4>
+<br>
 
-  <p align="center">
-    <kbd>RAG PIPELINES</kbd>
-    &nbsp;&nbsp;
-    <kbd>LLM APPLICATIONS</kbd>
-    &nbsp;&nbsp;
-    <kbd>AI AGENTS</kbd>
-    &nbsp;&nbsp;
-    <kbd>INFERENCE PIPELINES</kbd>
-    &nbsp;&nbsp;
-    <kbd>EVENT PROCESSING</kbd>
-  </p>
+<!-- AI SYSTEMS & DEPLOYMENT -->
 
-  <br>
+<h4 align="center">AI SYSTEMS &amp; DEPLOYMENT</h4>
 
-  <h4 align="center">BACKEND &amp; DEPLOYMENT</h4>
-
-  <p align="center">
-    <kbd>FASTAPI</kbd>
-    &nbsp;&nbsp;
-    <kbd>STREAMLIT</kbd>
-    &nbsp;&nbsp;
-    <kbd>DOCKER</kbd>
-    &nbsp;&nbsp;
-    <kbd>POSTGRESQL</kbd>
-    &nbsp;&nbsp;
-    <kbd>REDIS</kbd>
-  </p>
-
-  <br>
-
-</details>
+<p align="center">
+  <kbd>AI AGENTS</kbd>
+  &nbsp;&nbsp;
+  <kbd>LLM APPLICATIONS</kbd>
+  &nbsp;&nbsp;
+  <kbd>RAG PIPELINES</kbd>
+  &nbsp;&nbsp;
+  <kbd>INFERENCE PIPELINES</kbd>
+  &nbsp;&nbsp;
+  <kbd>FASTAPI</kbd>
+  &nbsp;&nbsp;
+  <kbd>STREAMLIT</kbd>
+  &nbsp;&nbsp;
+  <kbd>DOCKER</kbd>
+  &nbsp;&nbsp;
+  <kbd>POSTGRESQL</kbd>
+  &nbsp;&nbsp;
+  <kbd>REDIS</kbd>
+</p>
 
 <br>
 
