@@ -96,7 +96,7 @@
 <div align="center">
 
   <img
-    src="./assets/csir-ceeri.jpg"
+    src="./assets/2c1fcca5-5281-4bad-9da7-a1db8780ecc1.png"
     width="100%"
     alt="CSIR-Central Electronics Engineering Research Institute"
   />
