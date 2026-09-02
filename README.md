@@ -330,6 +330,101 @@
 
 <br>
 
+<details>
+  <summary align="center">
+    <strong>▸ FULL AI/ML STACK — CLICK TO EXPAND</strong>
+  </summary>
+
+  <br>
+
+  <h4 align="center">AI / MACHINE LEARNING</h4>
+
+  <p align="center">
+    <kbd>PYTORCH</kbd>
+    &nbsp;&nbsp;
+    <kbd>TENSORFLOW</kbd>
+    &nbsp;&nbsp;
+    <kbd>SCIKIT-LEARN</kbd>
+  </p>
+
+  <br>
+
+  <h4 align="center">GENERATIVE AI &amp; LLMs</h4>
+
+  <p align="center">
+    <kbd>TRANSFORMERS</kbd>
+    &nbsp;&nbsp;
+    <kbd>HUGGING FACE</kbd>
+    &nbsp;&nbsp;
+    <kbd>TINYLLAMA</kbd>
+    &nbsp;&nbsp;
+    <kbd>LORA / PEFT</kbd>
+    &nbsp;&nbsp;
+    <kbd>RAG</kbd>
+    &nbsp;&nbsp;
+    <kbd>FAISS</kbd>
+    &nbsp;&nbsp;
+    <kbd>SENTENCETRANSFORMERS</kbd>
+    &nbsp;&nbsp;
+    <kbd>MULTI-AGENT SYSTEMS</kbd>
+  </p>
+
+  <br>
+
+  <h4 align="center">COMPUTER VISION</h4>
+
+  <p align="center">
+    <kbd>YOLO</kbd>
+    &nbsp;&nbsp;
+    <kbd>YOLOv12</kbd>
+    &nbsp;&nbsp;
+    <kbd>BYTETRACK</kbd>
+    &nbsp;&nbsp;
+    <kbd>MULTI-OBJECT TRACKING</kbd>
+    &nbsp;&nbsp;
+    <kbd>SPATIAL INTELLIGENCE</kbd>
+    &nbsp;&nbsp;
+    <kbd>TEMPORAL ANALYTICS</kbd>
+  </p>
+
+  <br>
+
+  <h4 align="center">AI APPLICATIONS &amp; SYSTEMS</h4>
+
+  <p align="center">
+    <kbd>RAG PIPELINES</kbd>
+    &nbsp;&nbsp;
+    <kbd>LLM APPLICATIONS</kbd>
+    &nbsp;&nbsp;
+    <kbd>AI AGENTS</kbd>
+    &nbsp;&nbsp;
+    <kbd>INFERENCE PIPELINES</kbd>
+    &nbsp;&nbsp;
+    <kbd>EVENT PROCESSING</kbd>
+  </p>
+
+  <br>
+
+  <h4 align="center">BACKEND &amp; DEPLOYMENT</h4>
+
+  <p align="center">
+    <kbd>FASTAPI</kbd>
+    &nbsp;&nbsp;
+    <kbd>STREAMLIT</kbd>
+    &nbsp;&nbsp;
+    <kbd>DOCKER</kbd>
+    &nbsp;&nbsp;
+    <kbd>POSTGRESQL</kbd>
+    &nbsp;&nbsp;
+    <kbd>REDIS</kbd>
+  </p>
+
+  <br>
+
+</details>
+
+<br>
+
 <!-- ========================================================= -->
 <!-- ACTIVITY -->
 <!-- ========================================================= -->
