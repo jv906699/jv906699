@@ -48,7 +48,7 @@
 <div align="center">
 
   <img
-    src="./assets/drdo.jpg"
+    src="./assets/da4ffa48-da96-4655-a660-cfc46e2c59cc.png"
     width="100%"
     alt="Defence Research and Development Organisation"
   />
