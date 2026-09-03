@@ -142,9 +142,15 @@
 <!-- PROJECTS -->
 <!-- ========================================================= -->
 
-<br>
+<br><br>
 
-<h2 align="center">PROJECTS:--></h2>
+<p align="center">
+  <img
+    src="./assets/projects-heading-final.gif"
+    width="95%"
+    alt="Projects"
+  />
+</p>
 
 <br>
 
