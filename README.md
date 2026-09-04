@@ -5,7 +5,7 @@
 <img
   src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:334155&height=220&section=header&text=JATIN%20KUMAR%20VERMA&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=AI%2FML%20ENGINEER%20%C2%B7%20FREELANCER&descSize=20&descAlignY=54&descColor=ffffff"
   width="100%"
-  alt="Hi! Iam Jatin Verma"
+  alt="Jatin Kumar Verma"
 />
 
 <p align="center">
