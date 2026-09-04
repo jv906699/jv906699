@@ -34,7 +34,7 @@
 <p align="center">
   <img
     src="./assets/experience.svg"
-    width="95%"
+    width="100%"
     alt="Experience and R&D timeline"
   />
 </p>
