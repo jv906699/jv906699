@@ -147,7 +147,7 @@
 <p align="center">
   <img
     src="./assets/projects-heading-final.gif"
-    width="95%"
+    width="100%"
     alt="Projects"
   />
 </p>
@@ -163,7 +163,7 @@
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/jv906699/jv906699/main/assets/retail_brain_os_demo.gif"
-    width="95%"
+    width="100%"
     alt="Retail Brain OS"
   />
 </p>
@@ -211,7 +211,7 @@
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/jv906699/jv906699/main/assets/Mini-GPT-Complete-Logic-Explainer.gif"
-    width="95%"
+    width="100%"
     alt="Mini-GPT"
   />
 </p>
@@ -266,7 +266,7 @@
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/jv906699/jv906699/main/assets/multiple_object_detection_yolov12n_workflow.gif"
-    width="95%"
+    width="100%"
     alt="Multiple Object Detection System"
   />
 </p>
