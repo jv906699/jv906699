@@ -20,7 +20,7 @@
 <p align="center">
   <img
     src="./assets/about-me-gif-v6-slower.gif"
-    width="95%"
+    width="100%"
     alt="About Jatin Kumar Verma"
   />
 </p>
