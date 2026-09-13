@@ -1,71 +1,31 @@
-<!-- ========================================================= -->
-<!-- INTRO -->
-<!-- ========================================================= -->
+<p align="center">
+  <img src="./assets/wave-divider.gif" width="100%" alt="Animated divider" />
+</p>
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:334155&height=220&section=header&text=Hey..!%20I'm%20Jatin%20Verma&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=AI%2FML%20ENGINEER%20%C2%B7%20FREELANCER&descSize=20&descAlignY=54&descColor=ffffff"
+  width="100%"
+  alt="Jatin Kumar Verma"
+/>
 
 <p align="center">
   <img
-    src="https://iam-weijie.github.io/wave/hand-emoji.svg"
-    width="40"
-    alt="Waving hand"
-  />
-  &nbsp;&nbsp;
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=334155&center=true&vCenter=true&repeat=true&width=620&height=30&lines=building+real-world+AI+systems;machine+learning+%7C+generative+AI+%7C+LLMs;computer+vision+%7C+intelligent+automation;turning+ideas+into+useful+AI+solutions"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=334155&center=true&vCenter=true&repeat=true&width=650&height=35&lines=Building+intelligent+systems;Generative+AI+%7C+LLM+Systems;Machine+Learning+%7C+AI+Engineering;Turning+ideas+into+real-world+AI+solutions"
     alt="Typing introduction"
   />
 </p>
 
+<br>
+
 <p align="center">
-  <a href="https://github.com/jv906699">
-    <img
-      src="https://img.shields.io/github/followers/jv906699?label=follow&style=flat-square&logo=github&color=334155&labelColor=0f172a"
-      alt="GitHub followers"
-    />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/jatin-verma-3a7805372">
-    <img
-      src="https://img.shields.io/badge/linkedin-connect-0A66C2?style=flat-square&logo=linkedin"
-      alt="LinkedIn"
-    />
-  </a>
-  &nbsp;
   <img
-    src="https://komarev.com/ghpvc/?username=jv906699&color=334155&style=flat-square&label=visitors"
-    alt="Profile visitors"
+    src="./assets/about-me-gif-v6-slower.gif"
+    width="100%"
+    alt="About Jatin Kumar Verma"
   />
 </p>
 
-<p align="center">
-  <b>AI / ML Engineer</b>
-  &nbsp;-&nbsp;
-  <b>Freelancer</b>
-  &nbsp;-&nbsp;
-  Generative AI
-  &nbsp;-&nbsp;
-  LLM Systems
-  &nbsp;-&nbsp;
-  Computer Vision
-  <br/>
-  <sub>
-    building intelligent systems that turn ideas into practical, real-world solutions
-  </sub>
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/jatin-verma-3a7805372">
-    <img
-      src="https://img.shields.io/badge/open_to-AI%2FML_roles_%26_freelance_collaborations-334155?style=flat-square"
-      alt="Open to AI/ML roles and freelance collaborations"
-    />
-  </a>
-</p>
-
-<img
-  src="https://raw.githubusercontent.com/jv906699/jv906699/main/assets/wave-divider.gif"
-  width="100%"
-  alt="Animated divider"
-/>
+<br>
 
 <!-- ========================================================= -->
 <!-- EXPERIENCE -->
