@@ -65,13 +65,7 @@
       alt="Open to AI/ML roles and freelance collaborations"
     />
   </a>
-</p>
-
-<img
-  src="https://raw.githubusercontent.com/jv906699/jv906699/main/assets/wave-divider.gif"
-  width="100%"
-  alt="Animated divider"
-/>
+</p> 
 
 <br>
 
