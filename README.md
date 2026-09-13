@@ -3,7 +3,7 @@
 <!-- ========================================================= -->
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:334155&height=220&section=header&text=hey,%20i'm%20jatin%20verma&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=building%20intelligent%20AI%20systems&descSize=20&descAlignY=54&descColor=ffffff"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:334155&height=220&section=header&text=Hey..!,%20I'm%20Jatin%20Verma&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=building%20intelligent%20AI%20systems&descSize=20&descAlignY=54&descColor=ffffff"
   width="100%"
   alt="Hey, I'm Jatin Verma"
 />
