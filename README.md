@@ -37,7 +37,7 @@
   </a>
   &nbsp;
   <img
-    src="https://komarev.com/ghpvc/?username=jv906699&color=334155&style=flat-square&label=visitors"
+    src="https://komarev.com/ghpvc/?username=jv906699"
     alt="Profile visitors"
   />
 </p>
