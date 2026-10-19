@@ -214,7 +214,7 @@
 <p align="center">
   <a href="https://github.com/jv906699/SafeTransit-AI">
     <img
-        src="https://raw.githubusercontent.com/jv906699/jv906699/main/assets/SafeTransit_AI.gif"
+        src="https://raw.githubusercontent.com/jv906699/jv906699/main/assets/SafeTransit_AI_45sec_Research_Explainer (1).gif"
       width="100%"
       alt="SafeTransit-AI — 45-second animated research explainer covering AI-assisted code modernization, AST analysis, static verification, system architecture, and experimental fine-tuning"
     />
