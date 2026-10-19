@@ -228,19 +228,37 @@
 </p>
 
 <p align="center">
+  <kbd>CODE REPAIR</kbd>
+  &nbsp;&nbsp;
+  <kbd>CODE OPTIMIZATION</kbd>
+  &nbsp;&nbsp;
+  <kbd>STATIC ANALYSIS</kbd>
+  &nbsp;&nbsp;
+  <kbd>AST ANALYSIS</kbd>
+  &nbsp;&nbsp;
+  <kbd>CODE VERIFICATION</kbd>
+</p>
+
+<p align="center">
+  <kbd>DIAGNOSTIC-DRIVEN REPAIR</kbd>
+  &nbsp;&nbsp;
+  <kbd>SYNTAX VALIDATION</kbd>
+  &nbsp;&nbsp;
+  <kbd>COMPILER CHECKS</kbd>
+  &nbsp;&nbsp;
+  <kbd>BENCHMARKING</kbd>
+</p>
+
+<p align="center">
   <kbd>PYTHON</kbd>
   &nbsp;&nbsp;
   <kbd>C</kbd>
   &nbsp;&nbsp;
   <kbd>TREE-SITTER</kbd>
   &nbsp;&nbsp;
-  <kbd>AST ANALYSIS</kbd>
-  &nbsp;&nbsp;
   <kbd>QWEN2.5-CODER</kbd>
   &nbsp;&nbsp;
   <kbd>OLLAMA</kbd>
-  &nbsp;&nbsp;
-  <kbd>STATIC ANALYSIS</kbd>
   &nbsp;&nbsp;
   <kbd>STREAMLIT</kbd>
 </p>
