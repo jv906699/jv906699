@@ -223,13 +223,7 @@
 
 <p align="center">
   <i>
-    An AI-assisted code modernization research prototype that combines
-    Tree-sitter-based structural analysis, diagnostic-driven repair,
-    local LLM inference, static analysis, and compiler-related checks.
-    Supports Python and C workflows, with Repair and Optimize modes
-    designed to evaluate candidate code changes before reporting results.
-    Explores verification-first AI engineering rather than trusting
-    generated code without evidence.
+    An experimental code modernization system combining Tree-sitter-based structural analysis, diagnostic-driven repair, local LLM inference, and automated verification. SafeTransit-AI explores how AI-generated code changes can be evaluated through compiler and static-analysis checks rather than accepted on model output alone.
   </i>
 </p>
 
