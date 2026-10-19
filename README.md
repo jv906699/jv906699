@@ -205,6 +205,59 @@
 </p>
 
 <br>
+<!-- ========================================================= -->
+<!-- SAFETRANSIT-AI -->
+<!-- ========================================================= -->
+
+<h2 align="center">SAFETRANSIT-AI</h2>
+
+<p align="center">
+  <a href="https://github.com/jv906699/SafeTransit-AI">
+    <img
+      src="https://raw.githubusercontent.com/jv906699/jv906699/main/assets/SafeTransit_AI.gif"
+      width="100%"
+      alt="SafeTransit-AI — 45-second animated research explainer covering AI-assisted code modernization, AST analysis, static verification, system architecture, and experimental fine-tuning"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <i>
+    An AI-assisted code modernization research prototype that combines
+    Tree-sitter-based structural analysis, diagnostic-driven repair,
+    local LLM inference, static analysis, and compiler-related checks.
+    Supports Python and C workflows, with Repair and Optimize modes
+    designed to evaluate candidate code changes before reporting results.
+    Explores verification-first AI engineering rather than trusting
+    generated code without evidence.
+  </i>
+</p>
+
+<p align="center">
+  <kbd>PYTHON</kbd>
+  &nbsp;&nbsp;
+  <kbd>C</kbd>
+  &nbsp;&nbsp;
+  <kbd>TREE-SITTER</kbd>
+  &nbsp;&nbsp;
+  <kbd>AST ANALYSIS</kbd>
+  &nbsp;&nbsp;
+  <kbd>QWEN2.5-CODER</kbd>
+  &nbsp;&nbsp;
+  <kbd>OLLAMA</kbd>
+  &nbsp;&nbsp;
+  <kbd>STATIC ANALYSIS</kbd>
+  &nbsp;&nbsp;
+  <kbd>STREAMLIT</kbd>
+</p>
+
+<p align="center">
+  <a href="https://github.com/jv906699/SafeTransit-AI">
+    <kbd> VIEW PROJECT → </kbd>
+  </a>
+</p>
+
+<br>
 
 <!-- ========================================================= -->
 <!-- RETAIL-BRAIN-OS -->
